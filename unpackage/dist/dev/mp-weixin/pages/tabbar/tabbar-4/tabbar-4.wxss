@@ -1,0 +1,18 @@
+
+.content.data-v-6174f068 {
+	text-align: center;
+	height: 400rpx;
+}
+#myVideo.data-v-6174f068{
+	width: 100%;
+	margin-bottom: 50rpx;
+}
+.uni-btn-v.data-v-6174f068{
+	width:500rpx;
+	margin-left: 125rpx;
+}
+.uni-list.data-v-6174f068{
+	text-align: left;
+	padding-left: 125rpx;
+}
+
